@@ -1,4 +1,4 @@
-# Fitness-Trainer-Web-Site
+# Fitness-Trainer-WebSite
 
 Welcome to the Fitness Trainer Website, a sleek, modern, and fully responsive personal portfolio website designed to showcase trainer's professional services, client results, and fitness insights.
 
