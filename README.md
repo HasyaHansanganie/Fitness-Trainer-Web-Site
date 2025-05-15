@@ -5,7 +5,7 @@ Welcome to the Fitness Trainer Website, a sleek, modern, and fully responsive pe
 ## 📽️ Demo Video
 
 <a href="https://drive.google.com/file/d/1hrp161S1W_SOiW4wzos5ymyCNjAVuaA2/view?usp=sharing" target="_blank">
-  <img src="backend/public/userProfiles/demoPreview.png" alt="Click here to watch the demo" width="600">
+  <img src="/demoPreview.jpg" alt="Click here to watch the demo" width="600">
 </a>
 
 ## 📝 Project Description
